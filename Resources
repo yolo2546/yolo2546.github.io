@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The STEP web Project</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header background: rgb(23,154,21)>
+        <h1>
+            The STEP Web Project
+        </h1>
+        <ul class="options_group">
+            <li class="options"><a href="About.html"><button class="clickoptions">About</button></a></li>
+            <li class="options"><a href="Resources.html"><button class="clickoptions">Resources</button></a></li>
+            <li class="options"><a href="Random Stuff.html"><button class="clickoptions">Random Stuff</button></a></li>
+        </ul>
+    </header>
+    <section>
+    <h2>
+        <u>STEP Resources</u>
+    </h2>
+    <h3>
+        Disclaimer:
+    </h3>
+    <p> This is not tried and tested advice; a lot of this is written in hindsight after achieving only a 2,1 grade.
+         As a result, most advice given here is unprescriptive and broad enough for you to make a decision for yourself as to its utility; STEP is a very subjective
+        exam to prepare for. What works for you may not work for everyone else, and vice versa. In any case, you may also find below a list of STEP resources that should be more
+        than useful for your preparation.</p>
+    </section>
+    <section>
+        <table style="width:100%; text-align:center" border=1>
+            <tr>
+                <th rowspan="3">Year</th>
+                <th rowspan="2" colspan="3">Papers</th>
+                <th rowspan="2" colspan="3">Mark Schemes</th>
+                <th rowspan="2" colspan="3">Examiner's Comments</th>
+                <th rowspan="3">Results Analysis</th>
+                <th colspan="12">Grade Boundaries</th>
+            </tr>
+            <tr>
+                <th colspan="4">STEP I</th>
+                <th colspan="4">STEP II</th>
+                <th colspan="4">STEP III</th>
+            </tr>
+            <tr>
+                <th>STEP I</th>
+                <th>STEP II</th>
+                <th>STEP III</th>
+                <th>STEP I</th>
+                <th>STEP II</th>
+                <th>STEP III</th>
+                <th>STEP I</th>
+                <th>STEP II</th>
+                <th>STEP III</th>
+                <th>S</th>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+                <th>S</th>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+                <th>S</th>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+            </tr>
+            <tr>
+                <td>2021</td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2021%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2021%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2021%2520STEP%25202%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2021%2520STEP%25203%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2021%2520STEP%25202%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2021%2520STEP%25203%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/633141-step-2021-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2020</td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2020%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2020%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2020%2520STEP%25202%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2020%2520STEP%25203%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2020%2520STEP%25202%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2020%2520STEP%25203%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/592038-step-2020-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2019</td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2019%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2019%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2019%2520STEP%25202%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2019%2520STEP%25203%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2019%2520STEP%25202%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2019%2520STEP%25203%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/552526-step-2019-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2018</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2018%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2018%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2018%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2018%2520STEP%25201%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2018%2520STEP%25202%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2018%2520STEP%25203%2520Solutions.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2018%2520STEP%25201%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2018%2520STEP%25202%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2018%2520STEP%25203%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/501251-explanation-of-results-for-step-2018.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2017</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2017%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2017%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2017%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2017%2520Mark%2520Scheme.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2017%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/411971-step-2017-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2016</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2016%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2016%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2016%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2016%2520Mark%2520Scheme.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2016%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/322808-step-2016-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2015</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2015%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2015%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2015%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2015%2520Mark%2520Scheme.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2015%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/246349-step-2015-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2014</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2014%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2014%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2014%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://correspondence.maths.org/sites/correspondence.maths.org/files/feedback/2014%20PI%20markscheme.pdf" style="color:rgb(241, 184, 94) ">.pdf</a></td>
+                <td><a href="https://correspondence.maths.org/sites/correspondence.maths.org/files/feedback/STEP%20II%20Mark%20Scheme%202014%20all%20questions.pdf" style="color:rgb(241, 184, 94) ">.pdf</a></td>
+                <td><a href="https://correspondence.maths.org/sites/correspondence.maths.org/files/feedback/STEP3%202014%20%20mark-scheme.pdf" style="color:rgb(241, 184, 94) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2014%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="hhttps://www.admissionstesting.org/Images/176803-step-2014-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2013</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2013%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2013%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2013%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://correspondence.maths.org/sites/correspondence.maths.org/files/feedback/2013%20P1%20marking%20scheme.pdf" style="color:rgb(241, 184, 94) ">.pdf</a></td>
+                <td><a href="https://correspondence.maths.org/sites/correspondence.maths.org/files/feedback/STEP_II_2013_MS.pdf" style="color:rgb(241, 184, 94) ">.pdf</a></td>
+                <td><a href="https://correspondence.maths.org/sites/correspondence.maths.org/files/feedback/STEP3%202013%20-%20MSfinal.pdf" style="color:rgb(241, 184, 94) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2013%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/142193-step-2013-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2012</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2012%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2012%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2012%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="2"><a href="https://support.cambridgeenglish.org/attachments/token/mdmTg1fRxsulLsUqmZqQlCOC5/?name=Amrit+Lohia+FOI.zip" style="color:rgb(98, 178, 96) ">.zip</a></td>
+                <td><a href="https://support.cambridgeenglish.org/attachments/token/COLSHjxsEZBIMd8sUU8XlOo0b/?name=Amrit+Lohia.zip" style="color: rgb(169, 76, 166)">.zip</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2012%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/107703-step-2012-explanation-of-results.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2011</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2011%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2011%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2011%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="2"><a href="https://support.cambridgeenglish.org/attachments/token/mdmTg1fRxsulLsUqmZqQlCOC5/?name=Amrit+Lohia+FOI.zip" style="color:rgb(98, 178, 96) ">.zip</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2011%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2011%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/7913-step-specification.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2010%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2010%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2010%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://support.cambridgeenglish.org/attachments/token/COLSHjxsEZBIMd8sUU8XlOo0b/?name=Amrit+Lohia.zip" style="color:rgb(169, 76, 166) ">.zip</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2010%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/7912-step-specification.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2009</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2009%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2009%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2009%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://support.cambridgeenglish.org/attachments/token/mdmTg1fRxsulLsUqmZqQlCOC5/?name=Amrit+Lohia+FOI.zip" style="color:rgb(98, 178, 96) ">.zip</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2009%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/7911-step-specification.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2008</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2008%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2008%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2008%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="2"><a href="https://support.cambridgeenglish.org/attachments/token/COLSHjxsEZBIMd8sUU8XlOo0b/?name=Amrit+Lohia.zip" style="color:rgb(169, 76, 166) ">.zip</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2008%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2008%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/7910-step-specification.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2007</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2007%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2007%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2007%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2007%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>               
+                <td><a href="https://support.cambridgeenglish.org/attachments/token/COLSHjxsEZBIMd8sUU8XlOo0b/?name=Amrit+Lohia.zip" style="color:rgb(169, 76, 166) ">.zip</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2007%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2007%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.admissionstesting.org/Images/7909-step-specification.pdf" style="color:rgb(228, 53, 42)">.pdf</a></td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2006</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2006%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2006%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2006%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2006%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>               
+                <td><a href="https://support.cambridgeenglish.org/attachments/token/COLSHjxsEZBIMd8sUU8XlOo0b/?name=Amrit+Lohia.zip" style="color:rgb(169, 76, 166) ">.zip</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2006%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2006%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2005</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2005%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2005%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2005%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2005%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>               
+                <td><a href="https://support.cambridgeenglish.org/attachments/token/COLSHjxsEZBIMd8sUU8XlOo0b/?name=Amrit+Lohia.zip" style="color:rgb(169, 76, 166) ">.zip</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2005%2520Solutions.pdf" style="color: rgb(36, 189, 177)">.pdf*</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2005%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2004</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2004%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2004%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2004%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2004%2520Hints%2520and%2520Answers.pdf" style="color:rgb(36, 189, 177) ">.pdf*</a></td>
+                <td colspan="3"><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FSolutions-and-Reports%2F2004%2520Examiners%27%2520Report.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2003</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2003%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2003%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2003%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2002</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2002%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2002%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2002%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2001</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2001%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2001%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2001%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>2000</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2000%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2000%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F2000%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1999</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1999%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1999%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1999%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1998</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1998%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1998%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1998%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1997</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1997%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1997%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1997%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1996</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1996%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1996%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1996%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1995</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1995%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1995%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1995%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1994</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1994%2520STEP%25201.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1994%2520STEP%25202.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2F1994%2520STEP%25203.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1993</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1993%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1993%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1993%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1992</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1992%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1992%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1992%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1991</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1991%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1991%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1991%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1990</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1990%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1990%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1990%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1989</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1989%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1989%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1989%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1988</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1988%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1988%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1988%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>1987</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1987%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1987%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1987%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+            <tr>
+                <td>SPEC</td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1987%2520Specimen%2520STEP%25201%2520-%2520Maths.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1987%2520Specimen%2520STEP%25202%2520-%2520Further%2520A.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td><a href="https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FAdmissions%2FSTEP%2FPapers%2FOld-Format%2F1987%2520Specimen%2520STEP%25203%2520-%2520Further%2520B.pdf" style="color:rgb(36, 189, 177) ">.pdf</a></td>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <td>---</td>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>---</th>
+                <th>92</th>
+                <th>67</th>
+                <th>54</th>
+                <th>28</th>
+                <th>89</th>
+                <th>67</th>
+                <th>54</th>
+                <th>29</th>
+            </tr>
+        </table>
+    </section>
+    <footer>
+        Contact:
+    </footer>
+</body>
+</html>
