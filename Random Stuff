@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The STEP web Project</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header background: rgb(23,154,21)>
+        <h1>
+            The STEP Web Project
+        </h1>
+        <ul class="options_group">
+            <li class="options"><a href="About.html"><button class="clickoptions">About</button></a></li>
+            <li class="options"><a href="Resources.html"><button class="clickoptions">Resources</button></a></li>
+            <li class="options"><a href="Random Stuff.html"><button class="clickoptions">Random Stuff</button></a></li>
+        </ul>
+    </header>
+    <h2>
+        Random Stuff
+    </h2>
+    <footer>
+        Contact:
+    </footer>
+</body>
+</html>
