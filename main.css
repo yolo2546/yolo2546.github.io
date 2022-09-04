@@ -1,0 +1,86 @@
+body{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+footer{
+    margin-top: auto;
+}
+body section{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+    padding: 30px;
+    margin: 0;
+    
+}
+.options_group{
+    background:none;
+    margin; 0px;
+    padding: 0px 5px;
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+.options{
+    background:none;
+    margin:auto;
+    color: white;
+    margin:auto;
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px 20px
+}
+.clickoptions{
+    font-size:14pt;
+    padding: 2px 5px;
+    width: 200px;
+    border-radius: 2em;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid white;
+    color: white
+}
+.clickoptions:hover {
+    border-radius: 2em;
+    background-color: rgba(255, 255, 255, 0.301); 
+    border: 2px solid white;
+    color: white
+}
+header{
+    background-color: black;
+    background-image: url("images/Title BG.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    position: relative;
+    padding; 20px;
+    background-position: center;
+    margin; 0px;
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(94, 167, 235)
+}
+h2, p, h3, h4{
+    color: rgb(0, 0, 0)
+}
+button{
+    background: gray;
+    border: none;
+    color: white
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+}
+footer{
+    background:rgb(34, 34, 34);
+    margin; 0px;
+    padding: 5px, 30%;
+    align
+    font-family: Cambria MAth, Calibri, Arial, Helvetica, sans-serif;
+}
