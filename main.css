@@ -17,6 +17,7 @@ body{
     font-size:40px;
     color:rgb(23, 23, 63);
 
+
 }
 
 span{
@@ -96,6 +97,7 @@ header{
     display: inline-block;
 }
 .minipage{
+    cursor: pointer;
     width:100%;
     background-color:rgba(0, 0, 0, 0);
     border-width: 0;
@@ -106,6 +108,7 @@ header{
     display:flex;
     justify-content:space-between;
     vertical-align: middle;
+
 }
 .minipage:hover{
     width:100%;
@@ -116,6 +119,29 @@ header{
     font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
     color:rgb(33, 33, 33);
     font-size: 18px;
+}
+.minipage_link{
+    cursor: pointer;
+    width:100%;
+    background-color:rgba(0, 0, 0, 0);
+    border-width: 0;
+    padding: 0;
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+    color:rgb(53, 53, 196);
+    font-size: 16px;
+    display:flex;
+    justify-content:space-between;
+    vertical-align: middle;
+
+}
+.minipage_link:hover{
+    width:100%;
+    border-width: 0;
+    padding: 0;
+    text-align: left;
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+    color:rgb(1, 1, 214);
+    font-size: 16px;
 }
 .collapsible{
     width:100%;
@@ -147,12 +173,13 @@ header{
 }
 .collapsible:hover{
     width:100%;
+    cursor: pointer;
     background-color:rgba(0, 0, 0, 0);
     border-width: 0;
     padding: 0;
     text-align: left;
     font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
-    color:rgb(33, 33, 33);
+    color:rgb(13, 13, 13);
     font-size: 18px;
 }
 .collapsible_content{
@@ -162,6 +189,7 @@ header{
 }
 .clickoptions{
     font-size:14pt;
+    cursor: pointer;
     padding: 0;
     margin: 0px;
     width: 200px;
@@ -205,5 +233,5 @@ footer{
     width: 100%;
   }
 .sticky + body {
-    padding-top: 000px;
+    padding-top: 0px;
   }
