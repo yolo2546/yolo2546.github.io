@@ -110,6 +110,26 @@ header{
     vertical-align: middle;
 
 }
+.inline_minipage{
+    cursor: pointer;
+    background-color:rgba(0, 0, 0, 0);
+    width:auto;
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+    color:rgb(53, 53, 196);
+    font-size: 16px;
+
+}
+.inline_minipage:hover{
+    cursor: pointer;
+    background-color:rgba(0, 0, 0, 0);
+    border-width: 0;
+    padding: 0;
+    font-family: Cambria Math, Calibri, Arial, Helvetica, sans-serif;
+    color:rgb(1, 1, 214);
+    font-size: 16px;
+
+
+}
 .minipage:hover{
     width:100%;
     background-color:rgba(0, 0, 0, 0);
