@@ -171,6 +171,7 @@ header{
     content:"−\2009\2009\2009\2009";
     float: right;
 }
+
 .collapsible:hover{
     width:100%;
     cursor: pointer;
@@ -231,7 +232,4 @@ footer{
     position: fixed;
     top: 0;
     width: 100%;
-  }
-.sticky + body {
-    padding-top: 0px;
-  }
+}
