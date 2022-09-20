@@ -18,7 +18,6 @@ body{
     font-size:min(40px,7vw);
     color:rgb(23, 23, 63);
 }
-
 span{
     margin: -65% 10% 0px 10%;
     padding : 0px;
@@ -35,7 +34,7 @@ span{
     padding: 0px;
     position: relative;
     margin: 0px;
-    font-size:28px;
+    font-size:min(28px,4vw);
     border: 20px solid rgb(23, 23, 63);
     border-radius: 20px 20px 0px 00px;
 }
@@ -275,7 +274,7 @@ footer{
         padding: 20px;
         position: relative;
         margin: 0px;
-        font-size:28px;
+        font-size:min(28px,4vw);
         border: 0px solid rgb(23, 23, 63);
         border-radius: 00px;
     }
