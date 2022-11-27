@@ -260,7 +260,7 @@ footer{
 }
 @media only screen and (max-width:600px) {
     span{
-        margin: -65% 0px 0px 0px;
+        margin: -65% -20px 0px -10px;
         padding : 0px;
         position: relative;
         justify-content: center;
