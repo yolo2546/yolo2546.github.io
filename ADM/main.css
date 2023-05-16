@@ -297,14 +297,39 @@ div.image {
     height:200px;
     aspect-ratio: 1/1;
 }
-
+@media (max-width: 900px) {
+    #sidebar{
+    left:-10000px;
+    }
+    div.blue {
+        background-color: rgb(218, 213, 255);
+        margin: 0;
+        padding: 10px 20px 100px 20px;
+    }
+    div.red {
+        background-color: rgb(247, 205, 207);
+        margin: 0;
+        padding: 10px 20px 100px 20px;
+    }
+    div.peach {
+        background-color: #F0D199;
+        margin: 0;
+        padding: 10px 20px 100px 20px;
+    }
+    footer{
+    padding: 10px 20px 0px 20px;
+    }
+}
 @media (max-width: 1300px) {
     div.image {
         width: 100% !important;
         height:300px;
-        margin-left: 30%;
+        
     }
     #fixed{
+        margin:auto;
+        left: 0;
+        right:0;
         width: 50% !important;
         aspect-ratio: 1/1;
         height:auto
