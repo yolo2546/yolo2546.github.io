@@ -1,0 +1,341 @@
+header {
+    background-image: url("ADM logo.png"), url("cheader.jpg");
+    background-size: clamp(350px, 40%, 600px), max(100vw, calc(900/449 * 100vh)) 105vh;
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, top;
+    display: block;
+    position: relative;
+    margin: 0%;
+    padding: 0px;
+    padding-top: 2%;
+    width: 100%;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#sidebar {
+    background-color: rgba(0, 0, 0, 0.767);
+    z-index: 1;
+    position: fixed;
+    padding: 0;
+    left: 0;
+    top: 30%;
+    width: 60px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.separator {
+    text-align: center;
+    font-size: 24pt;
+    color: rgb(92, 92, 92);
+    background-color: #eeeeee;
+    padding: 6pt 0;
+}
+
+.sidebar-options {
+    background-color: rgba(0, 0, 0, 0.767);
+    z-index: 1;
+    position: fixed;
+    left: 0;
+    top: 30%;
+    width: 60px;
+}
+
+.text {
+    font-size: 15pt;
+    position: relative;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+    color: white;
+    font-family: Cambria, serif, Helvetica, sans-serif;
+    writing-mode: vertical-lr;
+    text-align: center;
+    left: 33%;
+    text-orientation: mixed;
+}
+
+.socials {
+    margin: -10px 0;
+    cursor: pointer;
+    padding: 0;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(255, 0, 0, 0);
+    border-style: none;
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%;
+    list-style-type: none;
+}
+
+.socials.insta:hover {
+    background-image: url("instac.png") !important;
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 0px;
+    -webkit-transition: background-image 1s ease-in-out;
+    transition: background-image 0.2s ease-in-out;
+    color: white;
+}
+
+.socials.discord:hover {
+    background-image: url("discordc.svg") !important;
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 0px;
+    -webkit-transition: background-image 1s ease-in-out;
+    transition: background-image 0.2s ease-in-out;
+    color: white;
+}
+
+.socials.twitter:hover {
+    background-image: url("twitterc.png") !important;
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 0px;
+    -webkit-transition: background-image 1s ease-in-out;
+    transition: background-image 0.2s ease-in-out;
+    color: white;
+}
+
+#options_group {
+    background-color: rgba(0, 0, 0, 0.842);
+    margin: 0 25% 0 0;
+    padding: 0px;
+    position: top 100% right 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+.options {
+    background: none;
+    margin: auto;
+    color: white;
+    list-style-type: none;
+    display: inline-block;
+    min-width: 20%;
+}
+
+.clickoptions {
+    font-size: clamp(0pt, 2.5vw, 17pt);
+    cursor: pointer;
+    position: relative;
+    width: 100%;
+    padding: 0px 5px;
+    margin: 0px;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+    color: white;
+    font-family: Cambria, serif, Helvetica, sans-serif;
+}
+
+.clickoptions:hover {
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 0px;
+    color: white;
+}
+
+.clickoptions:after {
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 0px;
+    color: white;
+    content: "";
+    height: 2px;
+    position: absolute;
+    width: 40%;
+    left: 30%;
+    top: 70%;
+    background: #fff;
+    transition: width 0.3s ease 0s, center 0.3s;
+    width: 0;
+}
+footer{
+    text-align: center;
+    font-size: 18pt;
+    color: rgb(92, 92, 92);
+    background-color: #eeeeee;
+    padding: 6pt 0;
+    display: flex;
+    flex-direction: row;
+    height:max-content;
+    padding: 10px clamp(70pt, 20%, 300px) 0px clamp(70pt, 20%, 300px);
+}
+footer div{
+    width:100%
+}
+footer div h2{
+    width:100%;
+    font-size:24px;
+}
+footer div ul{
+    text-align: center;
+    font-size: 18pt;
+    color: rgb(92, 92, 92);
+    background-color: #eeeeee;
+    padding: 6pt 0;
+    display: flex;
+    flex-direction: column;
+}
+footer div ul li{
+    color: rgb(92, 92, 92);
+    font-size: 16px;
+}
+.clickoptions:hover:after {
+    width: 40%;
+    left: 30%;
+    top: 70%
+}
+
+div.peach {
+    background-color: #F0D199;
+    margin: 0;
+    padding: 10px clamp(70pt, 20%, 300px) 100px clamp(70pt, 20%, 300px);
+}
+
+h1.peach {
+    margin: 50px 0;
+    font-size: 250%;
+    color: rgb(112, 85, 44);
+}
+
+span.peach {
+    display: flex;
+    width: 100%;
+    flex: auto;
+}
+
+p.peach {
+    font-size: 150%;
+    color: rgb(112, 85, 44);
+    width: 80%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+div.red {
+    background-color: rgb(247, 205, 207);
+    margin: 0;
+    padding: 10px clamp(70pt, 20%, 300px) 100px clamp(70pt, 20%, 300px);
+}
+
+h1.red {
+    margin: 50px 0;
+    text-align: right;
+    font-size: 250%;
+    color: rgb(78, 16, 19);
+}
+
+span.red {
+    display: flex;
+    width: 100%;
+    flex: auto;
+}
+
+h1.blue {
+    margin: 50px 0;
+    font-size: 250%;
+    color: rgb(9, 5, 46);
+}
+
+div.blue {
+    background-color: rgb(218, 213, 255);
+    margin: 0;
+    padding: 10px clamp(70pt, 20%, 300px) 100px clamp(70pt, 20%, 300px);
+}
+
+span.blue {
+    display: flex;
+    width: 100%;
+    flex: auto;
+}
+
+p.blue {
+    font-size: 150%;
+    color: rgb(9, 5, 46);
+    width:80%;
+    padding-right: 5%;
+    text-align: justify;
+}
+ul.blue{
+        font-size: 150%;
+        color: rgb(9, 5, 46);
+        width:100%;
+        padding-right: 5%;
+        text-align: justify;
+}
+ul.peach{
+    font-size: 150%;
+    color: rgb(112, 85, 44);
+    width:100%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+p.red {
+    font-size: 150%;
+    color: rgb(78, 16, 19);
+    width: 80%;
+    padding-left: 5%;
+    text-align: justify;
+}
+div.image {
+    background-image: url('dept sign.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30%;
+}
+#fixed{
+    width:200px;
+    height:200px;
+    aspect-ratio: 1/1;
+}
+
+@media (max-width: 1300px) {
+    div.image {
+        width: 100% !important;
+        height:300px;
+        margin-left: 30%;
+    }
+    #fixed{
+        width: 50% !important;
+        aspect-ratio: 1/1;
+        height:auto
+    }
+    span.peach {
+        flex-direction: column;
+        height: 100%;
+    }
+    p.peach {
+        width: 100%;
+        padding-right: 0%;
+        padding-bottom: 5%;
+    }
+
+    span.blue {
+        flex-direction: column;
+        height: 100%;
+    }
+    p.blue {
+        width: 100%;
+        padding-right: 0%;
+        padding-bottom: 5%;
+    }
+    span.red {
+        flex-direction: column-reverse;
+        height: 100%;
+    }
+
+    p.red {
+        width: 100%;
+        padding-left: 0%;
+        padding-bottom: 5%;
+    }
+}
