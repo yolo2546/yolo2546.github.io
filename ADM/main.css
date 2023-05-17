@@ -76,7 +76,6 @@ body {
     padding-bottom: 100%;
     list-style-type: none;
 }
-
 .socials.insta:hover {
     background-image: url("instac.png") !important;
     background-color: rgba(0, 0, 0, 0.301);
@@ -201,7 +200,7 @@ div.peach {
 
 h1.peach {
     margin: 50px 0;
-    font-size: 250%;
+    font-size: 2.5em;
     color: rgb(112, 85, 44);
 }
 
@@ -212,7 +211,7 @@ span.peach {
 }
 
 p.peach {
-    font-size: 150%;
+    font-size: 1.5em;
     color: rgb(112, 85, 44);
     width: 80%;
     padding-right: 5%;
@@ -228,7 +227,7 @@ div.red {
 h1.red {
     margin: 50px 0;
     text-align: right;
-    font-size: 250%;
+    font-size: 2.5em;
     color: rgb(78, 16, 19);
 }
 
@@ -240,7 +239,7 @@ span.red {
 
 h1.blue {
     margin: 50px 0;
-    font-size: 250%;
+    font-size: 2.5em;
     color: rgb(9, 5, 46);
 }
 
@@ -257,21 +256,21 @@ span.blue {
 }
 
 p.blue {
-    font-size: 150%;
+    font-size: 1.5em;
     color: rgb(9, 5, 46);
     width:80%;
     padding-right: 5%;
     text-align: justify;
 }
 ul.blue{
-        font-size: 150%;
+        font-size: 1.5em;
         color: rgb(9, 5, 46);
         width:100%;
         padding-right: 5%;
         text-align: justify;
 }
 ul.peach{
-    font-size: 150%;
+    font-size: 1.5em;
     color: rgb(112, 85, 44);
     width:100%;
     padding-right: 5%;
@@ -279,7 +278,7 @@ ul.peach{
 }
 
 p.red {
-    font-size: 150%;
+    font-size: 1.5em;
     color: rgb(78, 16, 19);
     width: 80%;
     padding-left: 5%;
@@ -297,30 +296,10 @@ div.image {
     height:200px;
     aspect-ratio: 1/1;
 }
-@media (max-width: 900px) {
-    #sidebar{
-    left:-10000px;
-    }
-    div.blue {
-        background-color: rgb(218, 213, 255);
-        margin: 0;
-        padding: 10px 20px 100px 20px;
-    }
-    div.red {
-        background-color: rgb(247, 205, 207);
-        margin: 0;
-        padding: 10px 20px 100px 20px;
-    }
-    div.peach {
-        background-color: #F0D199;
-        margin: 0;
-        padding: 10px 20px 100px 20px;
-    }
-    footer{
-    padding: 10px 20px 0px 20px;
-    }
-}
 @media (max-width: 1300px) {
+    h1.red {
+        text-align: left;
+    }
     div.image {
         width: 100% !important;
         height:300px;
@@ -362,5 +341,44 @@ div.image {
         width: 100%;
         padding-left: 0%;
         padding-bottom: 5%;
+    }
+}
+@media (max-width: 900px) {
+    p{
+        font-size: 1.2em !important;
+    }
+    ul{
+        font-size: 1.2em!important;
+    }
+    h1{
+        font-size: 1.8em!important;
+    }
+    #sidebar{
+    left:-10000px;
+    }
+    div.blue {
+        background-color: rgb(218, 213, 255);
+        margin: 0;
+        padding: 10px 20px 100px 20px;
+    }
+    div.red {
+        background-color: rgb(247, 205, 207);
+        margin: 0;
+        padding: 10px 20px 100px 20px;
+    }
+    div.peach {
+        background-color: #F0D199;
+        margin: 0;
+        padding: 10px 20px 100px 20px;
+    }
+    footer{
+    padding: 10px 20px 0px 20px;
+    }
+    .separator {
+        text-align: center;
+        font-size: 16pt;
+        color: rgb(92, 92, 92);
+        background-color: #eeeeee;
+        padding: 6pt 0;
     }
 }
