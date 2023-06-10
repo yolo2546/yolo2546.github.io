@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
+
+    <url>
+        <loc>https://yolo2546.github.io/about.html</loc>
+        <lastmod>2023-06-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yolo2546.github.io/about.html/about</loc>
+        <lastmod>2023-06-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yolo2546.github.io/about.html/resources</loc>
+        <lastmod>2023-06-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yolo2546.github.io/about.html/cambridge-applications</loc>
+        <lastmod>2023-06-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yolo2546.github.io/about.html/freedom-of-information</loc>
+        <lastmod>2023-06-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yolo2546.github.io/about.html/cookies</loc>
+        <lastmod>2023-06-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yolo2546.github.io/about.html/404-error</loc>
+        <lastmod>2023-06-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
